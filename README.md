@@ -12,6 +12,8 @@ Today, I research and design the experience, then build it in code. I design pro
 
 ### 🛠️ Skills & Tools
 - Design & Development:
+
+
 [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,django,mysql,nodejs,php,py,react)](https://skillicons.dev)
 
