@@ -7,7 +7,7 @@ Today, I research and design the experience, then build it in code. I design pro
 
 ### 🔭 What I'm up to
 - 🏋️ Building **[Lift&Inspire](#)**, a full-stack platform for bodybuilders and powerlifters, whether working with a coach or training on their own; it brings routines, workouts, progress
-  tracking, nutrition, and coach-athlete communication into one place, designed and built end-to-end. 
+  tracking, nutrition, and coach-athlete communication into one place, designing and building end-to-end. 
 - 💪 Building **ThriveBuddy**, a gamified fitness and wellness app focused on privacy, community, and anti-performative design.
 
 ### 🛠️ Skills & Tools
