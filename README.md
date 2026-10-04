@@ -11,9 +11,8 @@ Today, I research and design the experience, then build it in code. I design pro
 - 💪 Building **ThriveBuddy**, a gamified fitness and wellness app focused on privacy, community, and anti-performative design.
 
 ### 🛠️ Skills & Tools
-- Design
+- Design & Development:
 [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
-- Development
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,django,mysql,nodejs,php,py,react)](https://skillicons.dev)
 
 ### Outside of code
