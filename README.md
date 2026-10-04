@@ -26,6 +26,7 @@ When I'm not at my computer, you'll find me:
 Through my hobbies, I'm constantly reminded that curiosity is one of the most innovative tools we have.
 
 ### 📫 Let's Connect
--  www.yaczoe.com
-- cyabittner@gmail.com
-- www.linkedin.com/in/claudiabittner
+- ### Portfolio: www.yaczoe.com
+- ### Email: cyabittner@gmail.com
+- ### Linkedin: www.linkedin.com/in/claudiabittner
+- ### X: x.com/yac_zoe 
